@@ -1,0 +1,18 @@
+[submodule "Arduino_codes"]
+	path = Arduino_codes
+	url = https://github.com/gunavenkat/Arduino_codes.git
+[submodule "arduino-bluetooth-car"]
+	path = arduino-bluetooth-car
+	url = https://github.com/venkata-vazrala/arduino-bluetooth-car.git
+[submodule "diy-fountain"]
+	path = diy-fountain
+	url = https://github.com/venkata-vazrala/diy-fountain.git
+[submodule "private-alert-system"]
+	path = private-alert-system
+	url = https://github.com/venkata-vazrala/private-alert-system.git
+[submodule "regenerative-braking-system"]
+	path = regenerative-braking-system
+	url = https://github.com/venkata-vazrala/regenerative-braking-system.git
+[submodule "remote-communicator"]
+	path = remote-communicator
+	url = https://github.com/venkata-vazrala/remote-communicator.git
