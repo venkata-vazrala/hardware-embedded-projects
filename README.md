@@ -4,7 +4,7 @@ An umbrella index of my Arduino / embedded-electronics work — hobby builds and
 
 | Project | Description |
 |---|---|
-| [Arduino_codes](https://github.com/gunavenkat/Arduino_codes) | Raw Arduino sketch collection (all firmware referenced by the projects below) |
+| [Arduino_codes](https://github.com/venkata-vazrala/Arduino_codes) | Raw Arduino sketch collection (all firmware referenced by the projects below) |
 | [arduino-bluetooth-car](https://github.com/venkata-vazrala/arduino-bluetooth-car) | Bluetooth-controlled RC car on an RC rock-crawler chassis |
 | [diy-fountain](https://github.com/venkata-vazrala/diy-fountain) | DIY tabletop fountain build |
 | [private-alert-system](https://github.com/venkata-vazrala/private-alert-system) | GSM-based personal emergency alert device |

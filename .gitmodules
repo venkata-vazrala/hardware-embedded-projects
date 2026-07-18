@@ -1,6 +1,6 @@
 [submodule "Arduino_codes"]
 	path = Arduino_codes
-	url = https://github.com/gunavenkat/Arduino_codes.git
+	url = https://github.com/venkata-vazrala/Arduino_codes.git
 [submodule "arduino-bluetooth-car"]
 	path = arduino-bluetooth-car
 	url = https://github.com/venkata-vazrala/arduino-bluetooth-car.git
